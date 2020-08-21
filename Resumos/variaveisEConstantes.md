@@ -78,3 +78,16 @@ A Variável
 ```
 
 - Por convenção utilizamos letras maiusculas para declarar constantes e assim distingui-las de variáveis.
+
+- Exemplos de uso:
+
+- demonstrando alguns exemplos de declaração de variáveis:
+
+```java
+ final float PI = 3.1416f;
+ final double E = 1.234e2;
+ String nome = "Estevão dias";
+ String dataAniversário = "20/05/2000";
+ int lote = 35456;
+ boolean aprovado =  true;
+ ```
